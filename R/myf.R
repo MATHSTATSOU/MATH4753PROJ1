@@ -5,7 +5,7 @@
 #' The function is an elementary example of function creation and can be massively enhanced
 #' @param x
 #'
-#' @return a Vector of squared components
+#' @return a Vector of squared components in the form of a vector object
 #' @export
 #'
 #' @examples
